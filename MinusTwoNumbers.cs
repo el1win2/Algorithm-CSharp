@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Algorithm_CSharp;
+// 두 수의 차
 public class MinusTwoNumbers
 {
     public int solution(int num1, int num2)
