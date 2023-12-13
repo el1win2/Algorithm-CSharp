@@ -10,6 +10,6 @@ internal class test
 {
     public static void Main(string[] args)
     {
-        
+
     }
 }
